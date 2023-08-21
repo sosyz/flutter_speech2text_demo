@@ -12,10 +12,10 @@ import '../bean/xf_voice_res.dart';
 import '../utils/xf_util.dart';
 import 'package:web_socket_channel/status.dart' as status;
 
-/// 配置参数
-const String _appId = "xxxx";
-const String _apiKey = "xxxx";
-const String _apiSecret = "xxxx";
+/// 配置参数 网络资源
+const String _appId = "83836aa0";
+const String _apiKey = "445f5702911ec04cfc9155e1350b2a53";
+const String _apiSecret = "Y2M5OTI1MmZjY2NkNWYzZWY5OGJkMDRk";
 
 const String _host = "tts-api.xfyun.cn";
 const String _host2 = "iat-api.xfyun.cn";
